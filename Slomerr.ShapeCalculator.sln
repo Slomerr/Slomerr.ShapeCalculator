@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slomerr.ShapeCalculator", "Slomerr.ShapeCalculator\Slomerr.ShapeCalculator.csproj", "{48742658-AAF3-4980-A9AF-67EFC100F736}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slomerr.ShapeCalculator.Tests.UnitTests", "Slomerr.ShapeCalculator.Tests.UnitTests\Slomerr.ShapeCalculator.Tests.UnitTests.csproj", "{613F4450-114D-40CA-85B1-C4CE5C925513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48742658-AAF3-4980-A9AF-67EFC100F736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48742658-AAF3-4980-A9AF-67EFC100F736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48742658-AAF3-4980-A9AF-67EFC100F736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48742658-AAF3-4980-A9AF-67EFC100F736}.Release|Any CPU.Build.0 = Release|Any CPU
+		{613F4450-114D-40CA-85B1-C4CE5C925513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{613F4450-114D-40CA-85B1-C4CE5C925513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{613F4450-114D-40CA-85B1-C4CE5C925513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{613F4450-114D-40CA-85B1-C4CE5C925513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
